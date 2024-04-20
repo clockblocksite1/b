@@ -1,0 +1,146 @@
+@media(max-width:430px){
+    .Create{
+        font-size: 14px;
+        position: absolute;
+        left:0 ;
+        top: 0;
+        margin-top: 88px;
+        margin-left: 128px;
+    }
+    .buy{
+        font-size: 36px;
+        position:absolute ;
+        left: 0;
+        top: 0;
+        margin-left: 60px;
+        margin-top: 117px;
+        white-space: nowrap;
+    }
+    .buy2{
+        font-size: 36px;
+        position:absolute ;
+        left: 0;
+        top: 0;
+        margin-left: 28px;
+        margin-top: 157px;
+        white-space: nowrap;
+    }
+    .buy3{
+        font-size: 36px;
+        position:absolute ;
+        left: 0;
+        top: 0;
+        margin-left: 58px;
+        margin-top: 197px;
+        white-space: nowrap;
+    }
+    .coins{
+        width: 291px;
+        height: 277.7px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 365px;
+        margin-left: 28px;
+    }
+    .fes{
+        font-size: 14px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        margin-left: 37px;
+        margin-top: 240px;
+        color: #000000
+        59%;
+        white-space: nowrap;
+        font-family:  
+Ginto, sans-serif;
+    }
+    .fes2{
+        font-size: 14px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        margin-left: 60px;
+        margin-top: 260px;
+        color: #000000
+        59%;
+        white-space: nowrap;
+        font-family:  
+Ginto, sans-serif;
+    }
+    .start{
+        width: 170px;
+        height: 41.77px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        font-size: 14px;
+        margin-left: 20px;
+        margin-top: 307px;
+    }
+    .start2{
+        width: 170px;
+        height: 42px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        font-size: 14px;
+        margin-left: 200px;
+        margin-top: 307px;
+    }
+    .container2 {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .hot11{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: -175px;
+        margin-top: -50px;
+    }
+    .hot12{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: -175px;
+        margin-top: 310px;
+        
+    }
+    .hot13{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: -175px;
+        margin-top: 670px;
+    }
+    .hot14{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: -175px;
+        margin-top: 1030px;
+    }
+    .hot15{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: -175px;
+        margin-top: 1390px;
+    }
+    .wide{
+        display: none;
+    }
+    .we{
+        display: none;
+    }
+    .logo2{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 2253px;
+        margin-left: 20px;
+    }
+}
